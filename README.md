@@ -1,7 +1,7 @@
 # Control-de-Activos
 Pagina web para el control de activos realizada con jsp usando glassfish como servidor y como base de datos Oracle
 
-#Instalación 
+# Instalación 
 
 Correr el script de la base de datos en oracle
 
